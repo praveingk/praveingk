@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Research Fellow at CIR Lab under School of Computing, National University of Singapore. I completed my PhD under the guidance of Prof. Chan Mun Choon. My Thesis is "Improving Network Diagnostics using Programmable Networks". My Research is on Programmable Networks, Software Defined Networking, Network Virtualization and Mobile Communication technologies. 
+I am a Research Fellow at CIR Lab under School of Computing, National University of Singapore. I completed my PhD (Thesis topic:"Improving Network Diagnostics using Programmable Networks")  under the guidance of Prof. Chan Mun Choon. My Research is on Programmable Networks, Software Defined Networking, Network Virtualization and Mobile Communication technologies. 
 
 Prior to my PhD Adventure, I was working with Cisco Systems, a major Networking company located in Bangalore, for 4 years. At Cisco, I worked on infrastructure and Virtualization R&D in core and edge routers(GSR and ASR). 
 
