@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Staff Research Scientist at IBM Research - India. I work on networking, cloud research. I completed my PhD (Thesis topic:"Improving Network Diagnostics using Programmable Networks")  under the guidance of Prof. Chan Mun Choon. My Research is on Programmable Networks, Software Defined Networking, Network Virtualization and Mobile Communication technologies. 
 
-I am a Research Fellow at CIR Lab under School of Computing, National University of Singapore. I completed my PhD (Thesis topic:"Improving Network Diagnostics using Programmable Networks")  under the guidance of Prof. Chan Mun Choon. My Research is on Programmable Networks, Software Defined Networking, Network Virtualization and Mobile Communication technologies. 
+Prior to my PhD Adventure, I was working with Cisco Systems, Bangalore, for 4 years. At Cisco, I worked on infrastructure and virtualization R&D in core and edge routers(GSR and ASR). 
 
-Prior to my PhD Adventure, I was working with Cisco Systems, a major Networking company located in Bangalore, for 4 years. At Cisco, I worked on infrastructure and Virtualization R&D in core and edge routers(GSR and ASR). 
-
-I was brought up at Chennai, a buzzing coastal Metro, which is located in South India. I am married to Sneha Muralidharan, who is also currently pursuing her PhD in Department of Biological Sciences, NUS.
+I was brought up at Chennai, a buzzing coastal Metro, which is located in South India.
