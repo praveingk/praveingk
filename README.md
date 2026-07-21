@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Staff Research Scientist at IBM Research - Almaden. I work on systems and networking for AI. I completed my PhD at National University of Singapore (Thesis topic:"Improving Network Diagnostics using Programmable Networks") under the guidance of Prof. Chan Mun Choon. My Research is on Programmable Networks, Software Defined Networking, Network Virtualization and Mobile Communication technologies. 
+I am a Staff Research Scientist at IBM Research - Bangalore. I work on systems and networking for AI. I completed my PhD at National University of Singapore (Thesis topic:"Improving Network Diagnostics using Programmable Networks") under the guidance of Prof. Chan Mun Choon. My Research is on Programmable Networks, Software Defined Networking, Network Virtualization and Mobile Communication technologies. 
 
 Prior to my PhD Adventure, I was working with Cisco Systems, Bangalore, for 4 years. At Cisco, I worked on infrastructure and virtualization R&D in core and edge routers(GSR and ASR). 
-
-I was brought up at Chennai, a buzzing coastal Metro, which is located in South India.
